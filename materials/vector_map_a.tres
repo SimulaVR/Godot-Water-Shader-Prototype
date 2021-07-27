@@ -1,7 +1,9 @@
 [gd_resource type="ShaderMaterial" load_steps=3 format=2]
 
-[ext_resource path="res://shaders/vector_map.shader" type="Shader" id=1]
-[ext_resource path="res://textures/default/flowmap_source_02.png" type="Texture" id=2]
+[ext_resource path="res://scenes/Godot-Water-Shader-Prototype/shaders/vector_map.shader" type="Shader" id=1]
+[ext_resource path="res://scenes/Godot-Water-Shader-Prototype/textures/default/flowmap_source_02.png" type="Texture" id=2]
+
+
 
 [resource]
 shader = ExtResource( 1 )

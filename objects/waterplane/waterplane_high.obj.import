@@ -2,18 +2,17 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/waterplane_high.obj-68f67bc1a87fc85d3a0e37aee375ea32.mesh"
+path="res://.import/waterplane_high.obj-078cc04d0907d64072f61e6a64b164ec.mesh"
 
 [deps]
 
-files=[ "res://.import/waterplane_high.obj-68f67bc1a87fc85d3a0e37aee375ea32.mesh" ]
+files=[ "res://.import/waterplane_high.obj-078cc04d0907d64072f61e6a64b164ec.mesh" ]
 
-source_file="res://objects/waterplane/waterplane_high.obj"
-dest_files=[ "res://.import/waterplane_high.obj-68f67bc1a87fc85d3a0e37aee375ea32.mesh", "res://.import/waterplane_high.obj-68f67bc1a87fc85d3a0e37aee375ea32.mesh" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/objects/waterplane/waterplane_high.obj"
+dest_files=[ "res://.import/waterplane_high.obj-078cc04d0907d64072f61e6a64b164ec.mesh", "res://.import/waterplane_high.obj-078cc04d0907d64072f61e6a64b164ec.mesh" ]
 
 [params]
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
-offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=false

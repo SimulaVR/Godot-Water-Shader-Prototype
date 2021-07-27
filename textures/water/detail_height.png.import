@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/detail_height.png-bca4fa0ee6f0d0e37588f5ced69e89ed.s3tc.stex"
-path.etc2="res://.import/detail_height.png-bca4fa0ee6f0d0e37588f5ced69e89ed.etc2.stex"
+path.s3tc="res://.import/detail_height.png-22fbe185bda9c1fe3b183baab635fc92.s3tc.stex"
+path.etc2="res://.import/detail_height.png-22fbe185bda9c1fe3b183baab635fc92.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://textures/water/detail_height.png"
-dest_files=[ "res://.import/detail_height.png-bca4fa0ee6f0d0e37588f5ced69e89ed.s3tc.stex", "res://.import/detail_height.png-bca4fa0ee6f0d0e37588f5ced69e89ed.etc2.stex" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/textures/water/detail_height.png"
+dest_files=[ "res://.import/detail_height.png-22fbe185bda9c1fe3b183baab635fc92.s3tc.stex", "res://.import/detail_height.png-22fbe185bda9c1fe3b183baab635fc92.etc2.stex" ]
 
 [params]
 

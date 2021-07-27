@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lense_smudge_a.png-82d8c1c2e28a6d24917ad158d56cc766.stex"
+path="res://.import/lense_smudge_a.png-7dd8c6ed228af9f508981aac2da53c8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://textures/post/lense_smudge_a.png"
-dest_files=[ "res://.import/lense_smudge_a.png-82d8c1c2e28a6d24917ad158d56cc766.stex" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/textures/post/lense_smudge_a.png"
+dest_files=[ "res://.import/lense_smudge_a.png-7dd8c6ed228af9f508981aac2da53c8a.stex" ]
 
 [params]
 

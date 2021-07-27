@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/bubbles_normal.png-71a0d5d7437cbd3e2087e231027970a3.s3tc.stex"
-path.etc2="res://.import/bubbles_normal.png-71a0d5d7437cbd3e2087e231027970a3.etc2.stex"
+path.s3tc="res://.import/bubbles_normal.png-6ead87e2a3496813be79f735a427e828.s3tc.stex"
+path.etc2="res://.import/bubbles_normal.png-6ead87e2a3496813be79f735a427e828.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://textures/water/bubbles_normal.png"
-dest_files=[ "res://.import/bubbles_normal.png-71a0d5d7437cbd3e2087e231027970a3.s3tc.stex", "res://.import/bubbles_normal.png-71a0d5d7437cbd3e2087e231027970a3.etc2.stex" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/textures/water/bubbles_normal.png"
+dest_files=[ "res://.import/bubbles_normal.png-6ead87e2a3496813be79f735a427e828.s3tc.stex", "res://.import/bubbles_normal.png-6ead87e2a3496813be79f735a427e828.etc2.stex" ]
 
 [params]
 

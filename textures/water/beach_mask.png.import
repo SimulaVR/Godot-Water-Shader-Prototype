@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/beach_mask.png-ebdec1d1574d227fd6b0fa22d60dbe33.s3tc.stex"
-path.etc2="res://.import/beach_mask.png-ebdec1d1574d227fd6b0fa22d60dbe33.etc2.stex"
+path.s3tc="res://.import/beach_mask.png-9c567ca90e08ac2b4ece7ef1a261da9b.s3tc.stex"
+path.etc2="res://.import/beach_mask.png-9c567ca90e08ac2b4ece7ef1a261da9b.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://textures/water/beach_mask.png"
-dest_files=[ "res://.import/beach_mask.png-ebdec1d1574d227fd6b0fa22d60dbe33.s3tc.stex", "res://.import/beach_mask.png-ebdec1d1574d227fd6b0fa22d60dbe33.etc2.stex" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/textures/water/beach_mask.png"
+dest_files=[ "res://.import/beach_mask.png-9c567ca90e08ac2b4ece7ef1a261da9b.s3tc.stex", "res://.import/beach_mask.png-9c567ca90e08ac2b4ece7ef1a261da9b.etc2.stex" ]
 
 [params]
 

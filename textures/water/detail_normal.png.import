@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/detail_normal.png-96f63ac50dc64919b07ea387c3fb31e6.s3tc.stex"
-path.etc2="res://.import/detail_normal.png-96f63ac50dc64919b07ea387c3fb31e6.etc2.stex"
+path.s3tc="res://.import/detail_normal.png-6169516ccb4929c30e3aa477c272e6cc.s3tc.stex"
+path.etc2="res://.import/detail_normal.png-6169516ccb4929c30e3aa477c272e6cc.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://textures/water/detail_normal.png"
-dest_files=[ "res://.import/detail_normal.png-96f63ac50dc64919b07ea387c3fb31e6.s3tc.stex", "res://.import/detail_normal.png-96f63ac50dc64919b07ea387c3fb31e6.etc2.stex" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/textures/water/detail_normal.png"
+dest_files=[ "res://.import/detail_normal.png-6169516ccb4929c30e3aa477c272e6cc.s3tc.stex", "res://.import/detail_normal.png-6169516ccb4929c30e3aa477c272e6cc.etc2.stex" ]
 
 [params]
 

@@ -1,6 +1,8 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://nodes/ui.gd" type="Script" id=1]
+[ext_resource path="res://scenes/Godot-Water-Shader-Prototype/nodes/ui.gd" type="Script" id=1]
+
+
 
 [node name="ui" type="Control"]
 margin_left = 7.0

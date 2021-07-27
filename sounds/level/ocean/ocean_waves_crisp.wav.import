@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/ocean_waves_crisp.wav-7a1063a9dd655bab8eec8224ef12a488.sample"
+path="res://.import/ocean_waves_crisp.wav-ad93ae824e73d1f9d4d3f32fe37b3cb8.sample"
 
 [deps]
 
-source_file="res://sounds/level/ocean/ocean_waves_crisp.wav"
-dest_files=[ "res://.import/ocean_waves_crisp.wav-7a1063a9dd655bab8eec8224ef12a488.sample" ]
+source_file="res://scenes/Godot-Water-Shader-Prototype/sounds/level/ocean/ocean_waves_crisp.wav"
+dest_files=[ "res://.import/ocean_waves_crisp.wav-ad93ae824e73d1f9d4d3f32fe37b3cb8.sample" ]
 
 [params]
 
